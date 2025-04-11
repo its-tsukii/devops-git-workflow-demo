@@ -53,6 +53,23 @@ echo "✅ All steps completed successfully!"
 This script mimics real DevOps automation with simulated provisioning steps.
 
 ```
+---
+
+## 📸 Git Workflow Screenshots
+
+### 📂 Repo Structure
+![Repo Structure](screenshots/github-repo-structure.png)
+
+### 🔀 Feature Branch PR && ✅ Merged PR
+![Feature PR](screenshots/feature-pr.png)
+
+### 🏷️ Tagged Release
+![Tagged Release](screenshots/tagged-release.png)
+
+### 🧪 Script Output
+![Script Output](screenshots/script-output.png)
+
+
 🏷️ Git Tag Created
 The repository has been tagged as v1.0.0 to mark the first stable version of this workflow.
 
