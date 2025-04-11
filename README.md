@@ -10,6 +10,7 @@ This project showcases how to manage a DevOps project using **Git best practices
 <br>│ └── hello.sh # Simulated DevOps setup script 
 <br>├── docs/ 
 <br>│ └── git-commands.md # Markdown notes on Git workflow 
+<br>├── screenshots/ # Visual proof of Git flow 
 <br>├── .gitignore 
 <br>├── README.md 
 <br>└── execution-log.txt # (Optional log of Git commands)
@@ -52,6 +53,8 @@ echo "✅ All steps completed successfully!"
 This script mimics real DevOps automation with simulated provisioning steps.
 
 ```
+🏷️ Git Tag Created
+The repository has been tagged as v1.0.0 to mark the first stable version of this workflow.
 
 🧾 Git Concepts Practiced
 Git initialization
