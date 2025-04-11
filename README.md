@@ -8,7 +8,8 @@ This project showcases how to manage a DevOps project using **Git best practices
 
 . ├── scripts/ 
 <br>│ └── hello.sh # Simulated DevOps setup script 
-<br>├── docs/ │ └── git-commands.md # Markdown notes on Git workflow 
+<br>├── docs/ 
+<br>│ └── git-commands.md # Markdown notes on Git workflow 
 <br>├── .gitignore 
 <br>├── README.md 
 <br>└── execution-log.txt # (Optional log of Git commands)
