@@ -1,8 +1,7 @@
-# Ignore system files
+# System files
 .DS_Store
 
-# Ignore logs
+# Logs and sensitive files
 *.log
-
-# Ignore env and secrets
 .env
+
