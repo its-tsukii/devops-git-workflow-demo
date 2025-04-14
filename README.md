@@ -90,10 +90,11 @@ Markdown documentation
 
 
 🧭 More from My DevOps Journey
-This project is part of my ongoing DevOps learning series:
-👉 DevOps Master Blog – My Journey So Far : https://medium.com/@sroy10012001/my-devops-internship-journey-with-elevate-labs-30-days-of-learning-d7252e409a20
+<br>This project is part of my ongoing DevOps learning series:
+<br>👉 DevOps Master Blog – My Journey So Far : https://medium.com/@sroy10012001/my-devops-internship-journey-with-elevate-labs-30-days-of-learning-d7252e409a20
+<br> This Repo Blog -- **https://medium.com/@sroy10012001/git-like-a-devops-engineer-managing-projects-with-branches-prs-tags-72ceac64ef68**
 
-👨‍💻 Author
-Aayush Kukade
-🔗 LinkedIn : https://www.linkedin.com/in/aayushkukade/
-📂 GitHub : https://github.com/its-tsukii/
+<br>👨‍💻 Author
+<br>Aayush Kukade
+<br>🔗 LinkedIn : https://www.linkedin.com/in/aayushkukade/
+<br>📂 GitHub : https://github.com/its-tsukii/
